@@ -1,0 +1,8 @@
+streamlit>=1.28
+gpxpy
+rasterio
+pyproj
+plotly
+pandas
+requests
+numpy
